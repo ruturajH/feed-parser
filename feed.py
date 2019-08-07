@@ -14,4 +14,5 @@ print d['feed']['link']
 
 for post in d.entries:
     print post.title + ": " + post.link + " "
-    #post and their titles/links
+    
+   #Post and their titles/links
